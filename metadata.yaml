@@ -1,5 +1,8 @@
 _repo: Love-affairs-of-the-Courts-of-Europe_12309
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hall, Thornton
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '4309'
     url: http://www.gutenberg.org/2009/agents/4309
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12309#Love-affairs-of-the-Courts-of-Europe
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
